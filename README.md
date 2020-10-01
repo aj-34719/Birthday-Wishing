@@ -2,13 +2,15 @@
 A simple Android App to wish your friends Happy Birthday!
 
 Basic kotlin is used for developed or beginners.
-1. Setup tools
 </br>
-2. Drag and Drop Vs Code
+
+# Setup tools
 </br>
-3. Buttons setup
+# Drag and Drop Vs Code
 </br>
-4. Final touch
+# Buttons setup
+</br>
+# Final touch
 
 Video tutorial of Youtube playlist for this Project: https://bit.ly/2DKn7N5
 </br>
